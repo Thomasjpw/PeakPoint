@@ -1,6 +1,4 @@
-# PeakPoint
-
-![PeakPoint Logo](https://github.com/thomasjpw/PeakPoint/blob/[branch]/PeakPointLogo.png?raw=true)
+<img src="https://github.com/Thomasjpw/PeakPoint/blob/main/PeakPointLogo.png?raw=true" alt="PeakPoint Logo" width="200"/>
 
 ## Overview
 
